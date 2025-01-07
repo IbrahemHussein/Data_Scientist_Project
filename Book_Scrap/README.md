@@ -1,6 +1,6 @@
 # Web Scraping Project: Books to Scrape
 
-![Books to Scrape Logo](https://books.toscrape.com/static/logo.png) <!-- Add a relevant image if available -->
+![Books to Scrape Logo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/145986054/original/925fe62a845bc86dd7b8bb9f14a22a47372726f7/do-web-scraping-and-logo-design.jpeg) <!-- Add a relevant image if available -->
 
 ## 📖 Overview
 This project is a web scraper for [Books to Scrape](https://books.toscrape.com), a dummy website designed for practicing web scraping. The scraper extracts book details such as title, price, rating, and availability.
@@ -29,6 +29,7 @@ project/
 │ ├── book_image/ # contains image 
 ├── README.md # Project documentation
 └── .gitignore # Files to ignore in Git
+
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
@@ -37,4 +38,3 @@ project/
 2. Install dependencies:
     pip install -r requirements.txt
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
